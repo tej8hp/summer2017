@@ -1,0 +1,9 @@
+---
+layout: post
+author: tej8hp
+title: Taylor's Turtle Exercise
+---
+Here is my Turtle Exercise:
+<iframe src="https://trinket.io/embed/python/16084f924f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+For this Turtlehack, I was inspired by 'A Turtle in Space'. I knew I wanted to control my turtle's movements around the screen. However, rather than just flying a spaceship around space, I wanted there to be a puzzle to solve. Puzzle + basic movement = maze. And thus this hack.
