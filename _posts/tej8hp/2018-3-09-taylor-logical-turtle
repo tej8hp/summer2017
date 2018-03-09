@@ -1,0 +1,10 @@
+---
+layout: post
+author: tej8hp
+title: Taylor's Logical Turtle
+---
+Here is my submission for the logical turtle exercise
+
+<iframe src="https://trinket.io/embed/python/16084f924f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+I was not feeling particularly inspired for this exercise, so I looked through what other students had done to try to find an idea. One student had created a program that would tell you what month you were born in. I immediately thought of horoscopes, and decided to create my own version. The horoscopes I used are from https://www.astrology.com/. The main difficulty I ran into was accounting for both integers and strings, since I wanted the user to be able to write either their birth month or number. In the future, I think it would be cool if you could enter both your birth month and day, since star signs usually begin in the middle of the month. 
